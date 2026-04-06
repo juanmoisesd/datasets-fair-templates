@@ -147,3 +147,12 @@ This repository provides a **complete, modular framework** to make datasets:
                                                                           - ---
 
                                                                           **Status**: v1.0 | Last Updated: 2026-03-27
+
+## How to Cite
+
+If you use this repository in your research, please cite:
+
+> de la Serna, J. M. (2026). *Datasets Fair Templates*. Universidad Internacional de La Rioja (UNIR).
+> https://github.com/juanmoisesd/datasets-fair-templates 
+
+See `CITATION.cff` for formatted references.
